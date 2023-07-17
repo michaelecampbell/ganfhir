@@ -4,7 +4,7 @@
   "meta" : {
     "lastUpdated" : "2020-05-03T08:43:35.811+10:00"
   },
-  "type" : "collection",
+  "type" : "collectio",
   "entry" : [{
     "fullUrl" : "http://hl7.org/fhir/ConceptMap/cm-administrative-gender-v2",
     "resource" : {
